@@ -21,4 +21,11 @@ This project demonstrates a simple implementation of image steganography using P
 - **OpenCV (cv2)**: For image processing (reading, writing, and modifying images).
 - **Tkinter & ttk**: For creating the GUI with a dark theme.
 
+## Installation
+
+1. **Install Dependencies**: Ensure you have Python 3.13 installed.Then, install the required packages:
+   ```bash
+   pip install opencv-python 
+
+
 
