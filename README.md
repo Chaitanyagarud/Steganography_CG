@@ -25,6 +25,7 @@ This project demonstrates a simple implementation of image steganography using P
 
 1. **Install Dependencies**: Ensure you have Python 3.13 installed.Then, install the required packages:
    ```bash
+   
    pip install opencv-python
 
 ## Contribution
