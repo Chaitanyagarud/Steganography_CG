@@ -19,7 +19,7 @@ This project demonstrates a simple implementation of image steganography using P
 
 - **Python 3.13**: The primary programming language.
 - **OpenCV (cv2)**: For image processing (reading, writing, and modifying images).
-- **Tkinter & ttk**: For creating the GUI with a dark theme.
+- **Tkinter & ttk**: For creating the GUI with a white colour theme.
 
 ## Installation
 
