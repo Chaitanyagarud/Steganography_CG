@@ -36,6 +36,7 @@ Contribution, suggestion, and bug reports are welcome! Feel free to open an issu
 
 ## Screenshot
 
+![image](https://github.com/user-attachments/assets/eaa97f32-9fcb-46ee-bd8e-3acdab844a83)
 
 
 
